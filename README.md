@@ -1,7 +1,7 @@
 # Veckouppgift 6 - Object-Oriented Programming (OOP)
 
 **Course:** Test Automation with Python  
-**Student:** Haidar  
+**Student:** Haidar Alany 
 **Week:** 8 (16 February 2026)  
 **Topic:** Object-Oriented Programming, Classes, Encapsulation, Inheritance
 
@@ -57,8 +57,7 @@ Veckouppgift6/
 │
 ├── README.md              # This file
 ├── .gitignore             # Git ignore file
-│
-└── Veckouppgift 6.pdf     # Assignment description (not in repo)
+└── 
 ```
 
 ---
@@ -294,58 +293,7 @@ class Product:
         Product.__next_id += 1  # Increment for next instance
 ```
 
----
 
-## Code Quality
-
-### Code Standards
-- [OK] Descriptive class and method names
-- [OK] Docstrings for all classes and methods
-- [OK] Private attributes with `__` prefix
-- [OK] Input validation in all methods
-- [OK] Consistent formatting (PEP 8)
-
-### OOP Best Practices
-- [OK] Single Responsibility Principle
-- [OK] Encapsulation of data
-- [OK] DRY (Don't Repeat Yourself)
-- [OK] Meaningful abstractions
-
-### Testing
-- [OK] TDD approach for Bank Account
-- [OK] 10 comprehensive unit tests
-- [OK] Edge cases covered
-- [OK] Real-world scenarios tested
-
----
-
-## Key Takeaways
-
-### What I Learned
-
-1. **Encapsulation is powerful:** Private attributes prevent bugs and enforce validation
-
-2. **Inheritance simplifies code:** Base classes reduce duplication
-
-3. **Polymorphism enables flexibility:** Same interface, different implementations
-
-4. **TDD improves design:** Writing tests first leads to better APIs
-
-5. **Class design matters:** Proper structure makes code maintainable
-
-### Challenges
-
-- Understanding name mangling (`__attribute`)
-- Managing object references (cart contains product IDs)
-- Implementing compound interest correctly
-- Designing the webshop class relationships
-
-### Improvements
-
-- Could add more validation (e.g., email format)
-- Implement database persistence
-- Add payment processing
-- Create GUI interface
 
 ---
 
@@ -360,7 +308,7 @@ class Product:
 
 ## Contact
 
-**Student:** Haidar  
+**Student:** Haidar Alany
 **GitHub:** [Haidar2025](https://github.com/Haidar2025)  
 **Repository:** [Testautomatisering_Veckouppgift6](https://github.com/Haidar2025/Testautomatisering_Veckouppgift6)
 
@@ -372,6 +320,6 @@ This project is created for educational purposes as part of the Test Automation 
 
 ---
 
-**Created:** 18 February 2026  
+**Created:** 16 February 2026  
 **Last Updated:** 18 February 2026  
 **Version:** 1.0
